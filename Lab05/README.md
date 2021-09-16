@@ -1,0 +1,1 @@
+Acho que a melhor solução para a paralelização desse programa seria, paralelizar o segundo if para que cada multiplicao do vetor seja feita em um úcleo do processador.

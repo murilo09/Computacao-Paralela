@@ -34,7 +34,6 @@ int main() {
 	return 0;
 }
 
-
 void *Pth_mat_vect(void* rank) {
 	long my_rank = (long) rank;
 	int i, j;
